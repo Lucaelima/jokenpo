@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jokenpô</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Jokenpô</h1>
+
+    <div class="choices">
+        <button class="choice" data-option="pedra">🪨 Pedra</button>
+        <button class="choice" data-option="papel">📄 Papel</button>
+        <button class="choice" data-option="tesoura">✂️ Tesoura</button>
+    </div>
+
+    <canvas id="canvas" width="300" height="200" class="hidden"></canvas>
+
+    <div id="resultado" class="resultado">Escolha uma opção para jogar!</div>
+
+    <button id="btn-reiniciar" class="reiniciar">Reiniciar</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
