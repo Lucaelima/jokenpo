@@ -1,4 +1,4 @@
-# 🎮 Jokenpô Animado
+# 🎮 Jokenpô
 
 Este projeto é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido com **HTML, CSS e JavaScript**, incluindo uma animação em **Canvas** onde o ícone vencedor colide com o perdedor e o remove da tela. O canvas aparece apenas durante a jogada e desaparece ao reiniciar.
 
