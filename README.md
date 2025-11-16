@@ -16,11 +16,12 @@ Este projeto é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido co
 ---
 
 ## 🧭 Estrutura do Projeto
-
+```
 jokenpo-animado/
 ├── index.html
 ├── style.css
 └── script.js
+```
 
 ---
 
